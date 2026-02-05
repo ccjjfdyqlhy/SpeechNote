@@ -1,4 +1,6 @@
-# SpeechNote - 演讲稿智能提词器
+# SpeechNote 演讲提词器
+只是给你演讲时候写的一张小纸条。  
+[English](https://github.com/ccjjfdyqlhy/SpeechNote/blob/main/README.md) **简体中文**  
 
 ## 项目概述
 
@@ -123,4 +125,5 @@ python note.py
 
 - **常规模式**：1000 × 600 像素
 - **极小模式**：230 × 120 像素
+
 - **最小尺寸限制**：230 × 120 像素
