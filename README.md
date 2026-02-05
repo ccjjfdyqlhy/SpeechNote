@@ -1,4 +1,6 @@
-# SpeechNote - Intelligent Teleprompter for Presentations
+# SpeechNote: Teleprompter for Presentations
+yet a small piece of paper with hints for you written on it  
+**English**   [简体中文](https://github.com/ccjjfdyqlhy/SpeechNote/blob/main/README_zh.md)
 
 ## Project Overview
 
@@ -144,3 +146,4 @@ python note.py
 
 **Version**: 1.0  
 **Last Updated**: February 5, 2026
+
